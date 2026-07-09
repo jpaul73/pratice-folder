@@ -1,8 +1,5 @@
 # Welcome to NASA space App challenge 
 
-## Project info
-
-**URL**: [(https://github.com/Gnanaraj2006/Astro-Innovators)]
 
 ## How can I edit this code?
 
